@@ -1,0 +1,27 @@
+<NODE>
+nodejs.org/ko 방문.다운로드.설치
+powershell(mac-terminal) node -v 확인 node 런타임
+visual studio code 다운로드.설치. 열기.폴더열기
+new terminal에서 npm init 프로젝트 등록
+npm install express 라이브러리 설치
+new file server.js 서버세팅, get요청응답
+
+<DB>
+mongodb atlas 방문.계정생성.project>database>collection>document
++database todoapp / collection post, count, todolist
+Database Access 아이디 비번 edit
+Databases Connect to cluster-> connect your application 선택 ->nodejs 3.6 later -> 2코드복사 -> close
+npm i mongdb@3.6.4
+server.js DB연결테스트
+
+<EJS>
+npm i ejs
+new folder views / new file list.ejs
+server.js ejs연결
+
+<GIT>
+git-hub.com 방문.계정생성.repository 생성
+git init 한폴더에 로컬저장소하나 .git만들어짐
+git config user.name <name>
+git config user.email <email>
+new file .gitignore 
